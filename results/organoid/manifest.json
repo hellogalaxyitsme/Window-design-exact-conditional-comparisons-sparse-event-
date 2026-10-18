@@ -1,0 +1,58 @@
+[
+  {
+    "recording": "AP2_47plusDIV15",
+    "units": 384,
+    "trials": 149,
+    "span_s": 1.4,
+    "center_s": 0.1
+  },
+  {
+    "recording": "AP2_47plusDIV37",
+    "units": 384,
+    "trials": 149,
+    "span_s": 1.4,
+    "center_s": 0.1
+  },
+  {
+    "recording": "AP3_47plusDIV15",
+    "units": 384,
+    "trials": 149,
+    "span_s": 1.4,
+    "center_s": 0.1
+  },
+  {
+    "recording": "AP3_47plusDIV37",
+    "units": 384,
+    "trials": 149,
+    "span_s": 1.4,
+    "center_s": 0.1
+  },
+  {
+    "recording": "AP4_45plusDIV15",
+    "units": 384,
+    "trials": 149,
+    "span_s": 1.4,
+    "center_s": 0.1
+  },
+  {
+    "recording": "AP4_45plusDIV37",
+    "units": 384,
+    "trials": 149,
+    "span_s": 1.4,
+    "center_s": 0.1
+  },
+  {
+    "recording": "AP6_46plusDIV15",
+    "units": 384,
+    "trials": 149,
+    "span_s": 1.4,
+    "center_s": 0.1
+  },
+  {
+    "recording": "AP6_46plusDIV37",
+    "units": 384,
+    "trials": 149,
+    "span_s": 1.4,
+    "center_s": 0.1
+  }
+]

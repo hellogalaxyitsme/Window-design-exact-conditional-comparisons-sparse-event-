@@ -1,0 +1,9 @@
+degree,rational,method,kernel,floor,ratio,conjugate_ratio
+1,True,rational arithmetic,1 -2 1,2,1.0,1.0
+2,True,rational arithmetic,-5 16 -20 9,25,-0.5555555555555556,-0.5555555555555556
+3,False,"Galois conjugation, exponent 3",,,0.35550826408690855,1242.9778250692464
+4,False,"Galois conjugation, exponent 3",,,-0.2472567666191292,-407.03274323338087
+5,False,"Galois conjugation, exponent 5",,,0.18196227905630272,30876122.61803772
+6,False,"Galois conjugation, exponent 3",,,-0.13952759251951616,-166.9763746795039
+7,False,"Galois conjugation, exponent 3",,,0.11039080305409972,127.69865385086811
+8,False,"Galois conjugation, exponent 5",,,-0.08951929338649979,-252377.18793073663

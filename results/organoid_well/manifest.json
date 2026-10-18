@@ -1,0 +1,34 @@
+[
+  {
+    "recording": "AP2_47plusDIV15",
+    "wells": 24
+  },
+  {
+    "recording": "AP2_47plusDIV37",
+    "wells": 24
+  },
+  {
+    "recording": "AP3_47plusDIV15",
+    "wells": 24
+  },
+  {
+    "recording": "AP3_47plusDIV37",
+    "wells": 24
+  },
+  {
+    "recording": "AP4_45plusDIV15",
+    "wells": 24
+  },
+  {
+    "recording": "AP4_45plusDIV37",
+    "wells": 24
+  },
+  {
+    "recording": "AP6_46plusDIV15",
+    "wells": 24
+  },
+  {
+    "recording": "AP6_46plusDIV37",
+    "wells": 24
+  }
+]

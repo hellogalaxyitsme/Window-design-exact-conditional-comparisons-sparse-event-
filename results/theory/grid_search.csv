@@ -1,0 +1,4 @@
+degree,grid,minimum_floor_on_grid,n_designs_attaining,example,theoretical_minimum,equal_spacing_floor
+2,40,3,1,0 10 30 40,3,4
+3,40,8,3,0 4 16 36 40,4,8
+4,30,6,1,0 3 12 18 27 30,5,16

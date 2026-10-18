@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.venv/
+data/dandi_000774/
+data/dandi_000021/
+results/**/spikes.npz
+results/**/glmm_input/
+results/**/glmm_output/
+results/simulation/simulation_pvalues.parquet
+results/mouse_window_sensitivity/*/counts.npz
